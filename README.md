@@ -1,2 +1,1 @@
-# ets2
-School Website
+"# ets2" 
